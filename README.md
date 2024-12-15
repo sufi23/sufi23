@@ -43,6 +43,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sufi23/sufi23/output/snake.svg" alt="Snake animation" />
 
 ###
